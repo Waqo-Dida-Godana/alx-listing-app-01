@@ -1,0 +1,13 @@
+__turbopack_load_page_chunks__("/_error", [
+  "static/chunks/badbf_next_dist_compiled_85844347._.js",
+  "static/chunks/badbf_next_dist_shared_lib_2ca08653._.js",
+  "static/chunks/badbf_next_dist_client_41cdfd00._.js",
+  "static/chunks/badbf_next_dist_b97d2d29._.js",
+  "static/chunks/badbf_next_error_fb086685.js",
+  "static/chunks/[next]_entry_page-loader_ts_09e8ba3f._.js",
+  "static/chunks/badbf_react-dom_503fc0ec._.js",
+  "static/chunks/badbf_af74b3a2._.js",
+  "static/chunks/[root-of-the-server]__0c46a8c4._.js",
+  "static/chunks/alx-listing-app-01_pages__error_2da965e7._.js",
+  "static/chunks/turbopack-alx-listing-app-01_pages__error_95d06091._.js"
+])

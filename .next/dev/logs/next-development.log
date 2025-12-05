@@ -1,0 +1,21 @@
+[00:00:01.918] Server  LOG        skipping / (conflict)
+[00:00:01.951] Server  LOG     
+[00:00:01.952] Server  LOG        We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
+[00:00:01.952] Server  LOG        The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
+
+[00:00:01.952] Server  LOG        	- include was updated to add '.next\dev/types/**/*.ts'
+[00:00:01.953] Server  LOG        	- include was updated to add '.next\dev/types/**/*.ts'
+[00:00:01.953] Server  LOG     
+[00:00:02.218] Server  LOG      ✓ Ready in 1619ms
+[00:14:12.831] Server  LOG      ○ Compiling /_not-found/page ...
+[00:14:15.420] Browser ERROR   uncaughtError: Error: ./alx-listing-app-01
+App Router and Pages Router both match path: /
+Next.js does not support having both App Router and Pages Router routes matching the same path. Please remove one of the conflicting routes.
+
+
+[00:14:15.617] Browser ERROR   ./alx-listing-app-01
+App Router and Pages Router both match path: /
+Next.js does not support having both App Router and Pages Router routes matching the same path. Please remove one of the conflicting routes.
+[00:14:17.318] Browser ERROR   ./alx-listing-app-01
+App Router and Pages Router both match path: /
+Next.js does not support having both App Router and Pages Router routes matching the same path. Please remove one of the conflicting routes.
